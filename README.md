@@ -43,8 +43,3 @@ $ node Reattacher.js MYOMCSAXMQVRCOCLDAKVKLGYCHLIFDMFBSNIGXCXCLN9KDWZPAHZSYERTUN
 ### Coding style 
 MAMReattacher defers to [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript),
 also contains an ESLint configuration which you can use to validate your JavaScript code style.
-
-#### Lint JavaScript with ESLint.
-```
-npm run lint
-```
